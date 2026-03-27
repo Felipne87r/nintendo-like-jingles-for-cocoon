@@ -6,8 +6,8 @@ How to use:
 
 Go to settings > library & data > jingles > add new repository > Add the following:
 
-Repository Owner: felipne87r
-Repository Name: nintendo-like-jingles-for-cocoon
+* Repository Owner: felipne87r
+* Repository Name: nintendo-like-jingles-for-cocoon
 
 DISCLAIMER: These audio clips were made by a fan, for fans, for entertainment purposes only, no copyright infringement is intended. I own nothing as all credits go to their original authors
 
