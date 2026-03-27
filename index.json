@@ -56,6 +56,18 @@
     {
       "game": "Sonic Jump (2012)",
       "file": "jingles/android_app/Sonic Jump 2012.mp3"
+    },
+    {
+      "game": "Sonic Dash",
+      "file": "jingles/android_app/sonic dash.mp3"
+    },
+    {
+      "game": "Yo-Kai Watch Gerapo Rhythm",
+      "file": "jingles/android_app/yo-kai watch gerapo rhythm.mp3"
+    },
+    {
+      "game": "Yo Kai Watch Gerapo Rhythm",
+      "file": "jingles/android_app/yo-kai watch gerapo rhythm.mp3"
     }
   ]
 }
