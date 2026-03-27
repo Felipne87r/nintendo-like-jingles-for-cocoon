@@ -10,7 +10,11 @@
     {
       "game": "Super Mario Bros. Wonder",
       "file": "jingles/switch/mario wonder.mp3"
-    }
+    },
+    {
+      "game": "Super Mario Bros Wonder",
+      "file": "jingles/switch/mario wonder.mp3"
+    },
   ],
   "android_app": [
     {
