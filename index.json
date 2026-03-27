@@ -4,6 +4,18 @@
     {
       "game": "New Super Mario Bros.",
       "file": "jingles/nds/NSMB DS.mp3"
+    },
+    {
+      "game": "Mario Luigi Partners in Time",
+      "file": "jingles/nds/Mario Luigi Partners in Time.mp3"
+    },
+    {
+      "game": "Mario & Luigi Partners in Time",
+      "file": "jingles/nds/Mario Luigi Partners in Time.mp3"
+    },
+    {
+      "game": "Mario & Luigi - Partners in Time",
+      "file": "jingles/nds/Mario Luigi Partners in Time.mp3"
     }
   ],
   "switch": [
@@ -22,7 +34,7 @@
       "file": "jingles/android_app/mario run.mp3"
     },
     {
-      "game": "friday night funkin",
+      "game": "friday night funkin'",
       "file": "jingles/android_app/fnf.mp3"
     },
     {
@@ -36,6 +48,14 @@
     {
       "game": "codename engine",
       "file": "jingles/android_app/fnf.mp3"
+    },
+    {
+      "game": "Sonic Jump (2005)",
+      "file": "jingles/android_app/sonic jump 2005.mp3"
+    },
+    {
+      "game": "Sonic Jump (2012)",
+      "file": "jingles/android_app/sonic jump 2012.mp3"
     }
   ]
 }
