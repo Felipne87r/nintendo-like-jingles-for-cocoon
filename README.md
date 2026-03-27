@@ -1,44 +1,26 @@
-# Jingle Repo Example
+Nintendo-Like Jingles for Cocoonn
 
-A template repository for creating Cocoon jingle packs. Use this template
-to build your own collection of game jingles that can be used with
-[Cocoon](https://github.com/inssekt/CocoonFE).
+Custom jingles for games inspired by the official 3DS Jingles, for use in Cocoon launcher
 
-## Quick Start
+How to use:
 
-1. Use this repository template
-2. Add your audio files (`.mp3`, `.ogg`, `.wav`) to the repo.
-3. Update `index.json` to reference each file.
-4. In Cocoon, go to **Settings → Library & Data → Jingle Repositories**
-   and add your repo as `your-username/your-repo-name`.
+Go to settings > library & data > jingles > add new repository > Add the following:
 
-## index.json Format
+Repository Owner: felipne87r
+Repository Name: nintendo-like-jingles-for-cocoon
 
-The `index.json` file at the root of the repository tells Cocoon what
-jingles are available and where to find them.
+DISCLAIMER: These audio clips were made by a fan, for fans, for entertainment purposes only, no copyright infringement is intended. I own nothing as all credits go to their original authors
 
-```json
-{
-  "name": "My Jingle Pack",
-  "entries": [
-    {
-      "game": "Super Fartio Throws",
-      "file": "jingles/superfartiothrows.mp3"
-    },
-    {
-      "game": "The Legend of Velma",
-      "file": "jingles/The Legend of Velma.ogg"
-    }
-  ]
-}
-```
+Games with available jingles:
 
-When creating a jingle pack, make sure you have the right to distribute
-the audio files. Consider using:
+NDS:
+* New Super Mario Bros.
 
-- Original compositions
-- Clips you created yourself
-- Content with appropriate Creative Commons licenses
-- Short, transformative fair-use clips (consult local laws)
+Nintendo Switch:
+* Super Mario Bros. Wonder
 
-Do **not** redistribute copyrighted music without permission.
+Android:
+* Super Mario Run
+* Friday Night Funkin'
+
+W.I.P bc im dum and idk how to use the readme.md's
