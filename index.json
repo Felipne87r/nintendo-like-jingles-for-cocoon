@@ -14,7 +14,7 @@
     {
       "game": "Super Mario Bros Wonder",
       "file": "jingles/switch/mario wonder.mp3"
-    },
+    }
   ],
   "android_app": [
     {
@@ -40,6 +40,6 @@
     {
       "game": "psych online",
       "file": "jingles/android_app/fnf.mp3"
-    },
+    }
   ]
 }
