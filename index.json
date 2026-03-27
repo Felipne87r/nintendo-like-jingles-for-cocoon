@@ -28,18 +28,6 @@
     {
       "game": "fnf",
       "file": "jingles/android_app/fnf.mp3"
-    },
-    {
-      "game": "psych engine",
-      "file": "jingles/android_app/fnf.mp3"
-    },
-    {
-      "game": "codename engine",
-      "file": "jingles/android_app/fnf.mp3"
-    },
-    {
-      "game": "psych online",
-      "file": "jingles/android_app/fnf.mp3"
     }
   ]
 }
