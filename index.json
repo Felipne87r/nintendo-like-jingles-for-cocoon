@@ -2,13 +2,13 @@
   "name": "Nintendo-Like Jingles for Cocoon",
   "nds": [
     {
-      "game": "New Super Mario Bros",
+      "game": "New Super Mario Bros.",
       "file": "jingles/nds/NSMB DS.mp3"
     }
   ],
   "switch": [
     {
-      "game": "Super Mario Bros Wonder",
+      "game": "Super Mario Bros. Wonder",
       "file": "jingles/switch/mario wonder.mp3"
     }
   ],
