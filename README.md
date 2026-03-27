@@ -15,6 +15,7 @@ Games with available jingles:
 
 NDS:
 * New Super Mario Bros.
+* Mario & Luigi Partners in Time
 
 Nintendo Switch:
 * Super Mario Bros. Wonder
@@ -22,5 +23,7 @@ Nintendo Switch:
 Android:
 * Super Mario Run
 * Friday Night Funkin'
+* Sonic Jump (2005/Classic/Anniversary)
+* Sonic Jump (2012/Pro)
 
 W.I.P bc im dum and idk how to use the readme.md's
