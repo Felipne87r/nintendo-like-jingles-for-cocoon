@@ -1,4 +1,4 @@
-Nintendo-Like Jingles for Cocoonn
+Nintendo-Like Jingles for Cocoon
 
 Custom jingles for games inspired by the official 3DS Jingles, for use in Cocoon launcher
 
@@ -25,5 +25,7 @@ Android:
 * Friday Night Funkin'
 * Sonic Jump (2005/Classic/Anniversary)
 * Sonic Jump (2012/Pro)
+* Sonic Dash
+* Yo-Kai Watch Gerapo Rhythm
 
 W.I.P bc im dum and idk how to use the readme.md's
