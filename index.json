@@ -16,16 +16,32 @@
     {
       "game": "Mario & Luigi - Partners in Time",
       "file": "jingles/nds/mario luigi partners in time.mp3"
+    },
+    {
+      "game": "Mario Luigi Bowser Inside Story",
+      "file": "jingles/nds/mario-luigi-bis-inspired-by-remake.mp3"
+    },
+    {
+      "game": "Mario & Luigi Bowser Inside Story",
+      "file": "jingles/nds/mario-luigi-bis-inspired-by-remake.mp3"
+    },
+    {
+      "game": "Mario Luigi Bowser's Inside Story",
+      "file": "jingles/nds/mario-luigi-bis-inspired-by-remake.mp3"
+    },
+    {
+      "game": "Mario & Luigi Bowser's Inside Story",
+      "file": "jingles/nds/mario-luigi-bis-inspired-by-remake.mp3"
     }
   ],
   "switch": [
     {
       "game": "Super Mario Bros. Wonder",
-      "file": "jingles/switch/mario wonder.mp3"
+      "file": "jingles/switch/mario-wonder.mp3"
     },
     {
       "game": "Super Mario Bros Wonder",
-      "file": "jingles/switch/mario wonder.mp3"
+      "file": "jingles/switch/mario-wonder.mp3"
     }
   ],
   "android_app": [
@@ -68,6 +84,94 @@
     {
       "game": "Yo Kai Watch Gerapo Rhythm",
       "file": "jingles/android_app/yo-kai watch gerapo rhythm.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-call-longer.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-call-long.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-call-short.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-outgoing-call.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-outgoing-call-short.mp3"
+    },
+    {
+      "game": "Discord",
+      "file": "jingles/android_app/discord-ping.mp3"
+    },
+    {
+      "game": "Disney+",
+      "file": "jingles/android_app/disney+.mp3"
+    },
+    {
+      "game": "HBO Max",
+      "file": "jingles/android_app/hbo-max.mp3"
+    },
+    {
+      "game": "Netflix",
+      "file": "jingles/android_app/Netflix.mp3"
+    },
+    {
+      "game": "Nintendo Music",
+      "file": "jingles/android_app/nintendo-music.mp3"
+    },
+    {
+      "game": "WhatsApp",
+      "file": "jingles/android_app/whatsapp.mp3"
+    },
+    {
+      "game": "WhatsApp",
+      "file": "jingles/android_app/whatsapp-message-recieved.mp3"
+    },
+    {
+      "game": "WhatsApp",
+      "file": "jingles/android_app/whatsapp-whistle.mp3"
+    },
+    {
+      "game": "Sonic Mania",
+      "file": "jingles/switch/sonic-mania.mp3"
     }
+  ],
+  "segacd": [
+    {
+      "game": "Sonic CD",
+      "file": "jingles/switch/sonic-cd-jp.mp3"
+    },
+    {
+      "game": "Sonic CD",
+      "file": "jingles/switch/sonic-cd-us.mp3"
+    }
+  ],
+  "md": [
+    {
+      "game": "Sonic 3",
+      "file": "jingles/switch/sonic-3.mp3"
+    },
+    {
+      "game": "Sonic the Hedgehog 3",
+      "file": "jingles/switch/sonic-3.mp3"
+    },
+    {
+      "game": "Sonic 3 A.I.R",
+      "file": "jingles/switch/sonic-3.mp3"
+    },
+    {
+      "game": "Sonic 3 & Knucles",
+      "file": "jingles/switch/sonic-3.mp3"
+    },
+    {
+      "game": "Sonic the Hedgehog 3 & Knuckles",
+      "file": "jingles/switch/sonic-3.mp3"
+    },
   ]
 }
