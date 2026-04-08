@@ -119,7 +119,7 @@
     },
     {
       "game": "Netflix",
-      "file": "jingles/android_app/Netflix.mp3"
+      "file": "jingles/android_app/netflix.mp3"
     },
     {
       "game": "Nintendo Music",
@@ -139,39 +139,39 @@
     },
     {
       "game": "Sonic Mania",
-      "file": "jingles/switch/sonic-mania.mp3"
+      "file": "jingles/android?app/sonic-mania.mp3"
     }
   ],
   "segacd": [
     {
       "game": "Sonic CD",
-      "file": "jingles/switch/sonic-cd-jp.mp3"
+      "file": "jingles/segacd/sonic-cd-jp.mp3"
     },
     {
       "game": "Sonic CD",
-      "file": "jingles/switch/sonic-cd-us.mp3"
+      "file": "jingles/segacd/sonic-cd-us.mp3"
     }
   ],
   "md": [
     {
       "game": "Sonic 3",
-      "file": "jingles/switch/sonic-3.mp3"
+      "file": "jingles/md/sonic-3.mp3"
     },
     {
       "game": "Sonic the Hedgehog 3",
-      "file": "jingles/switch/sonic-3.mp3"
+      "file": "jingles/md/sonic-3.mp3"
     },
     {
       "game": "Sonic 3 A.I.R",
-      "file": "jingles/switch/sonic-3.mp3"
+      "file": "jingles/md/sonic-3.mp3"
     },
     {
       "game": "Sonic 3 & Knucles",
-      "file": "jingles/switch/sonic-3.mp3"
+      "file": "jingles/md/sonic-3.mp3"
     },
     {
       "game": "Sonic the Hedgehog 3 & Knuckles",
-      "file": "jingles/switch/sonic-3.mp3"
+      "file": "jingles/md/sonic-3.mp3"
     }
   ]
 }
