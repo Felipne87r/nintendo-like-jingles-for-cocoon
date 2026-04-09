@@ -15,6 +15,8 @@ How to use:
 
 DISCLAIMER: These audio clips were sourced by a fan, for fans, for entertainment purposes only, no copyright infringement is intended. I own nothing as all credits go to their original authors
 
+This isn't mandatory as the clips are not mine, but if you use these audio clips somewhere else, I'd really appreciate if you added a link to ths repo or the Discord thread in the Cocoon server (https://discord.com/channels/1445504354563002429/1487212764639396070/1487212764639396070)
+
 Games with available jingles:
 
 Sega Genesis/Mega Drive:
