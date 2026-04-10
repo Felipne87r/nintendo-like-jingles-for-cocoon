@@ -25,6 +25,12 @@ Sega Genesis/Mega Drive:
 Sega CD:
 * Sonic CD (JP/US)
 
+SNES:
+* Super Mario Bros. CD (I'm so sorry, but it's still technically a SNES game 😭. Please give more support to SMB. CD) (Beach Vacation Bouba by Reski, BB Voices by MunchJrGames. CANTO DE PÁJARO by Gale Sosa) (SMB CD Website: https://famicomcd.org/smbcd)
+
+N64:
+* Super Mario 64 (I'm still not truly convinced by that one, if you have any feedback please tell me through the forementioned Discord thread)
+
 NDS:
 * New Super Mario Bros.
 * Mario & Luigi Partners in Time
