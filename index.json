@@ -173,5 +173,29 @@
       "game": "Sonic the Hedgehog 3 & Knuckles",
       "file": "jingles/md/sonic-3.mp3"
     }
+  ],
+    "snes": [
+    {
+      "game": "Super Mario Bros. CD",
+      "file": "jingles/snes/mario-cd-barracuda-barry.mp3"
+    },
+    {
+      "game": "Super Mario Bros. CD",
+      "file": "jingles/snes/mario-cd-barracuda-barry-aloha.mp3"
+    },
+    {
+      "game": "Super Mario Bros. CD",
+      "file": "jingles/snes/mario-cd-beach.mp3"
+    },
+    {
+      "game": "Super Mario Bros. CD",
+      "file": "jingles/snes/mario-cd-grasslands.mp3"
+    }
+  ],
+  "n64": [
+    {
+      "game": "Super Mario 64",
+      "file": "jingles/N64/mario-64.mp3"
+    }
   ]
 }
