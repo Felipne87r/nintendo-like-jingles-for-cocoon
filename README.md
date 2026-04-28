@@ -42,7 +42,7 @@ Nintendo Switch:
 Android:
 * Super Mario Run
 * Friday Night Funkin'
-* Sonic Jump (2005/Classic/Anniversary)
+* Sonic Jump (2005/Classic/Anniversary/J2ME)
 * Sonic Jump (2012/Pro)
 * Sonic Dash
 * Yo-Kai Watch Gerapo Rhythm
@@ -51,5 +51,24 @@ Android:
 * HBO Max
 * Netflix
 * WhatsApp
+* Angry Birds
+* Angry Birds 2
+* Angry Birds Friends
+* Cut the Rope
+* Cut the Rope 2
+* Cut the Rope Time Travel
+* Fire Emblem Heroes
+* Just Dance (Any game/Controller apps)
+* Mario Kart Tour
+* Nintendo Switch App
+* Nintendo Today!
+* Pokémon Masters EX
+* Pokémon UNITE
+* Sonic Robo Blast 2
+* SpongeBob Battle For Bikini Bottom (Rehydrated)
+* Subway Surfers
+* VPhoneOS
+* Winlator
+* Yo-Kai Watch Puni-Puni (Wibble Wobble)
 
 W.I.P bc im dum and idk how to use the readme.md's
