@@ -44,6 +44,72 @@
       "file": "jingles/switch/mario-wonder.mp3"
     }
   ],
+  "gbc": [
+    {
+      "game": "Kirby Tilt 'n' Tumble",
+      "file": "jingles/gbc/kirby-tilt-n-tumble.mp3"
+    }
+  ],
+  "psx": [
+    {
+      "game": "SpongeBob SquarePants SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    },
+    {
+      "game": "Nickelodeon SpongeBob SquarePants SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    },
+    {
+      "game": "SpongeBob SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants: SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    },
+    {
+      "game": "Nickelodeon SpongeBob SquarePants: SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    },
+    {
+      "game": "SpongeBob: SuperSponge",
+      "file": "jingles/psx/spongebob-supersponge.mp3"
+    }
+  ],
+  "gba": [
+    {
+      "game": "Dragon Ball Z Supersonic Warriors",
+      "file": "jingles/gba/dbz-supersonic-warriors.mp3"
+    },
+    {
+      "game": "Mother 3",
+      "file": "jingles/gba/mother-3.mp3"
+    },
+    {
+      "game": "SpongeBob Battle for Bikini Bottom (GBA)",
+      "file": "jingles/gba/spongebob-bfbb-gba.mp3"
+    },
+    {
+      "game": "SpongeBob: Battle for Bikini Bottom (GBA)",
+      "file": "jingles/gba/spongebob-bfbb-gba.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants Battle for Bikini Bottom (GBA)",
+      "file": "jingles/gba/spongebob-bfbb-gba.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants: Battle for Bikini Bottom (GBA)",
+      "file": "jingles/gba/spongebob-bfbb-gba.mp3"
+    },
+    {
+      "game": "The SpongeBob SquarePants Movie (GBA)",
+      "file": "jingles/gba/spongebob-movie-gba.mp3"
+    },
+    {
+      "game": "The SpongeBob SquarePants Movie (GBA)",
+      "file": "jingles/gba/spongebob-movie-gba-alt.mp3"
+    }
+  ],
   "android_app": [
     {
       "game": "Super Mario Run",
