@@ -116,7 +116,7 @@
       "file": "jingles/android_app/mario run.mp3"
     },
     {
-      "game": "friday night funkin'",
+      "game": "Friday Night Funkin'",
       "file": "jingles/android_app/fnf.mp3"
     },
     {
@@ -124,11 +124,11 @@
       "file": "jingles/android_app/fnf.mp3"
     },
     {
-      "game": "psych engine",
+      "game": "Psych Engine",
       "file": "jingles/android_app/fnf.mp3"
     },
     {
-      "game": "codename engine",
+      "game": "Codename Engine",
       "file": "jingles/android_app/fnf.mp3"
     },
     {
@@ -136,7 +136,19 @@
       "file": "jingles/android_app/Sonic Jump 2005.mp3"
     },
     {
+      "game": "Sonic Jump Classic",
+      "file": "jingles/android_app/Sonic Jump 2005.mp3"
+    },
+    {
+      "game": "Sonic Jump Anniversary",
+      "file": "jingles/android_app/Sonic Jump 2005.mp3"
+    },
+    {
       "game": "Sonic Jump (2012)",
+      "file": "jingles/android_app/Sonic Jump 2012.mp3"
+    },
+    {
+      "game": "Sonic Jump Pro",
       "file": "jingles/android_app/Sonic Jump 2012.mp3"
     },
     {
@@ -236,7 +248,7 @@
       "file": "jingles/android_app/cut-the-rope-time-travel.mp3"
     },
     {
-      "game": "Fire Emblem Heores",
+      "game": "Fire Emblem Heroes",
       "file": "jingles/android_app/fire-emblem-heroes.mp3"
     },
     {
@@ -328,7 +340,7 @@
       "file": "jingles/android_app/yo-kai-watch-wibble-wobble.mp3"
     },
     {
-      "game": "Yo-Kai Watch Puni Puni",
+      "game": "Yo-Kai Watch Puni-Puni",
       "file": "jingles/android_app/yo-kai-watch-wibble-wobble.mp3"
     }
   ],
