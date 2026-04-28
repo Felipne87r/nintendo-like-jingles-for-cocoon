@@ -15,7 +15,7 @@ How to use:
 
 DISCLAIMER: These audio clips were sourced by a fan, for fans, for entertainment purposes only, no copyright infringement is intended. I own nothing as all credits go to their original authors
 
-This isn't mandatory as the clips are not mine, but if you use these audio clips somewhere else, I'd really appreciate if you added a link to ths repo or the Discord thread in the Cocoon server (https://discord.com/channels/1445504354563002429/1487212764639396070/1487212764639396070)
+This isn't mandatory as I will not take credit for the clips, but if you use these audio clips somewhere else, I'd really appreciate if you added a link to ths repo and/or the Discord thread in the Cocoon server (https://discord.com/channels/1445504354563002429/1487212764639396070/1487212764639396070)
 
 Games with available jingles:
 
@@ -30,6 +30,18 @@ SNES:
 
 N64:
 * Super Mario 64 (I'm still not truly convinced by that one, if you have any feedback please tell me through the forementioned Discord thread)
+
+PlayStation:
+* Nickelodeon SpongeBob SquarePants: SuperSponge
+
+Game Boy Color:
+* Kirby Tilt 'n' Tumble
+
+Game Boy Advance:
+* Dragon Ball Z: Supersonic Warriors
+* Mother 3
+* SpongeBob Battle for Bikini Bottom (GBA)
+* The SpongeBob SquarePants Movie
 
 NDS:
 * New Super Mario Bros.
