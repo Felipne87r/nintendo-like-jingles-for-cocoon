@@ -256,6 +256,14 @@
     {
       "game": "Winlator",
       "file": "jingles/android_app/winlator.mp3"
+    },
+    {
+      "game": "Yo-Kai Watch Wibble Wobble",
+      "file": "jingles/android_app/yo-kai-watch-wibble-wobble.mp3"
+    },
+    {
+      "game": "Yo-Kai Watch Puni Puni",
+      "file": "jingles/android_app/yo-kai-watch-wibble-wobble.mp3"
     }
   ],
   "segacd": [
