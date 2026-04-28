@@ -140,6 +140,122 @@
     {
       "game": "Sonic Mania",
       "file": "jingles/android_app/sonic-mania.mp3"
+    },
+    {
+      "game": "Angry Birds",
+      "file": "jingles/android_app/angry-birds.mp3"
+    },
+    {
+      "game": "Angry Birds 2",
+      "file": "jingles/android_app/angry-birds-2.mp3"
+    },
+    {
+      "game": "Angry Birds Friends",
+      "file": "jingles/android_app/angry-birds-friends.mp3"
+    },
+    {
+      "game": "Cut the Rope",
+      "file": "jingles/android_app/cut-the-rope-inspired-by-triple-treat.mp3"
+    },
+    {
+      "game": "Cut the Rope 2",
+      "file": "jingles/android_app/cut-the-rope-2.mp3"
+    },
+    {
+      "game": "Cut the Rope Time Travel",
+      "file": "jingles/android_app/cut-the-rope-time-travel.mp3"
+    },
+    {
+      "game": "Cut the Rope: Time Travel",
+      "file": "jingles/android_app/cut-the-rope-time-travel.mp3"
+    },
+    {
+      "game": "Fire Emblem Heores",
+      "file": "jingles/android_app/fire-emblem-heroes.mp3"
+    },
+    {
+      "game": "Just Dance",
+      "file": "jingles/android_app/just-dance.mp3"
+    },
+    {
+      "game": "Mario Kart Tour",
+      "file": "jingles/android_app/mario-kart-tour.mp3"
+    },
+    {
+      "game": "Nintendo Switch App",
+      "file": "jingles/android_app/nintendo-switch-app.mp3"
+    },
+    {
+      "game": "Nintendo Switch",
+      "file": "jingles/android_app/nintendo-switch-app.mp3"
+    },
+    {
+      "game": "Nintendo Today!",
+      "file": "jingles/android_app/nintendo-today.mp3"
+    },
+    {
+      "game": "Nintendo Today",
+      "file": "jingles/android_app/nintendo-today.mp3"
+    },
+    {
+      "game": "Pokemon Masters EX",
+      "file": "jingles/android_app/pokemon-masters-ex.mp3"
+    },
+    {
+      "game": "Pokémon Masters EX",
+      "file": "jingles/android_app/pokemon-masters-ex.mp3"
+    },
+    {
+      "game": "Pokemon UNITE",
+      "file": "jingles/android_app/pokemon-unite.mp3"
+    },
+    {
+      "game": "Pokémon UNITE",
+      "file": "jingles/android_app/pokemon-unite.mp3"
+    },
+    {
+      "game": "Sonic Robo Blast 2",
+      "file": "jingles/android_app/sonic-robo-blast-2.mp3"
+    },
+    {
+      "game": "SpongeBob Battle for Bikini Bottom",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob: Battle for Bikini Bottom",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants: Battle for Bikini Bottom",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob Battle for Bikini Bottom Rehydrated",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob: Battle for Bikini Bottom Rehydrated",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated",
+      "file": "jingles/android_app/spongebob-bfbb.mp3"
+    },
+    {
+      "game": "Subway Surfers",
+      "file": "jingles/android_app/subway-surfers.mp3"
+    },
+    {
+      "game": "VPhoneOS",
+      "file": "jingles/android_app/vphoneos-samsung-unlock-sound.mp3"
+    },
+    {
+      "game": "Winlator",
+      "file": "jingles/android_app/winlator.mp3"
     }
   ],
   "segacd": [
